@@ -98,6 +98,32 @@ E.M.N Studio tarafından özgün olarak hazırlanan veya proje kapsamında oluş
 
 Bu kapsamda, üçüncü taraflara ait içerikler varsa bunların hakları kendi sahiplerinde kalır.
 
+## 👥 YAPIM EKİBİ VE ÖNE ÇIKAN İSİMLER
+
+EMNSTRIKE, E.M.N Studio bünyesinde yürütülen bir oyun geliştirme projesidir. Projenin geliştirme sürecinde yazılım, yönetim, tasarım, müzik ve farklı teknik alanlarda çalışmalar yürütülmektedir.
+
+Aşağıda, **projenin öne çıkan ekip üyeleri ve sorumluluk alanları** yer almaktadır.
+
+### 👑 Emirhan Hakan Sevgi
+**Kurucu • Ana Geliştirici • E.M.N Studio**
+
+E.M.N Studio'nun kurucusu ve EMNSTRIKE'ın kurucu geliştiricisidir. Projenin genel geliştirme sürecinde, teknik altyapısında ve EMN+ programlama diliyle yürütülen yazılım çalışmalarında temel sorumluluk üstlenir.
+
+### 🏢 Görkem Doruk Tan
+**CEO • Yazılım Geliştirme Desteği • Fragman Tasarımı • Oyun İçi Müzik Desteği**
+
+E.M.N Studio bünyesinde CEO rolünü üstlenir. EMNSTRIKE'ın geliştirme sürecinde yazılım çalışmalarına destek verir; projenin tanıtım fragmanının tasarımına ve oyun içi müzik çalışmalarına da katkıda bulunur.
+
+### 🤝 Geniş Geliştirme Ekibi
+
+EMNSTRIKE'ın arkasındaki çalışmalar yalnızca bu bölümde adı geçen iki kişiyle sınırlı olmayabilir. Projenin farklı aşamalarında yazılım geliştirme, test, tasarım, ses, müzik, içerik üretimi ve diğer destek alanlarında katkıda bulunan başka ekip üyeleri ve yardımcı kişiler de bulunabilir.
+
+Bu README'de yer alan isimler, **öne çıkan ekip üyelerini** temsil eder; projenin geliştirilmesine katkı sağlayan herkesin eksiksiz listesi değildir.
+
+Proje ilerledikçe ekip rolleri, katkı alanları ve öne çıkan diğer isimler bu bölümde güncellenebilir.
+
+> **EMNSTRIKE, E.M.N Studio'nun teknik geliştirme yaklaşımını ve ekip çalışmasını bir araya getiren bir projedir.**
+
 ## 🏢 E.M.N STUDIO
 
 E.M.N Studio, EMNSTRIKE'ın geliştiricisi ve EMN+ programlama dilinin geliştiricisidir.

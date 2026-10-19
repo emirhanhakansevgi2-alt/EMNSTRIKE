@@ -1,174 +1,128 @@
 # ⚔️ EMNSTRIKE
-### NEXT-GENERATION TACTICAL FPS
-#### `E.M.N STUDIO` × `EMN+`
+### RESMÎ OYUN PROJESİ • E.M.N STUDIO
 
 <p align="center">
-  <strong>KENDİ DİLİMİZ. KENDİ PROJEMİZ. KENDİ SAVAŞ ALANIMIZ.</strong>
+  <strong>BU BİR OYUNDAN FAZLASI. BU, E.M.N STUDIO'NUN TEKNOLOJİSİ.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECT-EMNSTRIKE-101820?style=for-the-badge&logo=target&logoColor=00E5FF" alt="EMNSTRIKE">
-  <img src="https://img.shields.io/badge/ENGINEERING-EMN%2B-0077FF?style=for-the-badge" alt="EMN+">
+  <img src="https://img.shields.io/badge/PROJECT-EMNSTRIKE-101820?style=for-the-badge" alt="EMNSTRIKE">
+  <img src="https://img.shields.io/badge/PROGRAMMING-EMN%2B-0077FF?style=for-the-badge" alt="EMN+">
   <img src="https://img.shields.io/badge/DEVELOPER-E.M.N%20STUDIO-171717?style=for-the-badge" alt="E.M.N Studio">
   <img src="https://img.shields.io/badge/SOURCE-CLOSED-red?style=for-the-badge" alt="Kapalı kaynak">
 </p>
 
 ---
 
-## 🎯 PROJE HAKKINDA
+## 🎮 EMNSTRIKE NEDİR?
 
-**EMNSTRIKE**, E.M.N Studio tarafından geliştirilen, EMN+ programlama diliyle oluşturulmuş bir birinci şahıs nişancı (FPS) oyunudur.
+**EMNSTRIKE**, E.M.N Studio tarafından geliştirilen, kendine özgü oyun sistemlerine ve teknik altyapısına sahip bir birinci şahıs nişancı (FPS) oyunudur.
 
-Taktiksel çatışma, tur tabanlı mücadele, silah sistemleri ve oyun içi ekonomi mekaniklerini bir araya getiren EMNSTRIKE, kendi yazılım geliştirme yaklaşımına sahip bir oyun projesidir.
+EMNSTRIKE'ın geliştirilmesinde E.M.N Studio tarafından oluşturulan **EMN+ programlama dili** kullanılmıştır. Proje; oyun mekaniklerini, kullanıcı arayüzünü, haritaları, ses tasarımını ve diğer oyun bileşenlerini bir araya getiren kapsamlı bir yazılım çalışmasıdır.
 
-Bu proje yalnızca bir oyun deneyimi sunmayı değil, aynı zamanda E.M.N Studio'nun kendi programlama dili olan **EMN+ ile gerçekleştirilen oyun geliştirme çalışmalarını** da temsil eder.
+EMNSTRIKE'ın amacı, oyunculara taktiksel çatışma, stratejik kararlar ve tur tabanlı mücadele etrafında şekillenen bir FPS deneyimi sunmaktır.
 
-> **EMNSTRIKE: Mücadele başlar. Kontrol sende.**
+Bu proje, E.M.N Studio'nun yalnızca oyun geliştirme çalışmalarını değil, kendi programlama diliyle yazılım üretme yaklaşımını da temsil eder.
 
-## 📑 İÇİNDEKİLER
+> **EMNSTRIKE — EMN+ ile geliştirildi. E.M.N Studio tarafından oluşturuldu.**
 
-- [Proje Hakkında](#-proje-hakkinda)
-- [Oyun Mekanikleri](#-oyun-mekanikleri)
-- [Tur Sistemi](#-tur-sistemi-round-system)
-- [Silah ve Çatışma Sistemi](#-silah-ve-catışma-sistemi)
-- [Market ve Ekonomi](#-market-ve-ekonomi)
-- [Harita ve Oynanış](#-harita-ve-oynanis)
-- [Kullanıcı Arayüzü](#-kullanici-arayuzu)
-- [EMN+ Programlama Dili](#-emn-programlama-dili)
-- [Geliştirici Bilgileri](#-gelistirici-bilgileri)
-- [Kapalı Kaynak Politikası](#-kapali-kaynak-politikasi)
-- [Telif ve Haklar](#-telif-ve-haklar)
+## 🔫 OYUN MEKANİKLERİ
 
----
+### ⚔️ Çatışma ve silah sistemi
 
-## 🎮 OYUN MEKANİKLERİ
+EMNSTRIKE'ın temelini birinci şahıs bakış açısıyla gerçekleştirilen çatışmalar oluşturur. Oyuncu kontrolleri, silah kullanımı ve oyun içi etkileşimler FPS deneyiminin ana parçalarıdır.
 
-EMNSTRIKE'ın oynanış yapısı, FPS türünün temel unsurlarını taktiksel karar verme ve oyun içi kaynak yönetimiyle birleştirir.
+### 🔄 Tur sistemi — Round System
 
-### 🔫 Silah ve Çatışma Sistemi
+Tur sistemi, oyun akışının belirli aşamalar üzerinden ilerlemesini sağlar. Tur başlangıcı, mücadele süreci ve turun tamamlanması gibi aşamalar oyunun genel akışını oluşturur.
 
-Çatışma sistemi, oyuncunun oyun dünyasıyla doğrudan etkileşim kurmasını sağlayan temel mekaniklerden biridir.
+### 🛒 Market sistemi — Market System
 
-Bu sistemin kapsadığı temel alanlar:
+Market sistemi, oyuncuların oyun içi para kaynaklarını kullanarak ekipman satın almalarını sağlayan mekanikleri kapsar. Bu sistem, oyuncunun mevcut kaynaklarına göre seçim yapmasına olanak tanır.
 
-- Birinci şahıs bakış açısından oynanış.
-- Silah kullanımı ve çatışma etkileşimleri.
-- Oyuncu kontrolleri ve hareket mekanikleri.
-- Çatışma sırasında oyun durumunun yönetilmesi.
+### 💰 Para ve ekonomi sistemi — Economy System
 
-### 🔄 Tur Sistemi — Round System
+Ekonomi sistemi; oyuncu parasının yönetilmesini, satın alma işlemlerini ve market ile olan etkileşimi kapsar. Para sistemi, oyuncunun oyun içerisindeki ekipman tercihleriyle bağlantılıdır.
 
-Tur sistemi, oyun oturumunun aşamalara ayrılmasını sağlar.
+### 🗺️ Harita ve oyun alanları
 
-Tur tabanlı yapı kapsamında:
+Haritalar, çatışmaların gerçekleştiği oyun ortamlarını oluşturur. Harita tasarımı; oyun alanlarının düzenini, hareket alanlarını ve oyuncuların mücadele ettiği çevreyi kapsar.
 
-- Tur başlangıcı ve oyun akışının başlatılması.
-- Tur boyunca oyuncuların mücadele etmesi.
-- Turun tamamlanması ve oyun durumunun güncellenmesi.
-- Bir sonraki tur için oyun akışının sürdürülmesi.
+### 🖥️ Menü ve kullanıcı arayüzü
 
-### 🛒 Market Sistemi — Market System
+Menüler ve kullanıcı arayüzü, oyuncuların oyunla etkileşim kurmasını sağlayan temel bileşenlerdir. Arayüz, oyunun görsel kimliğinin ve kullanıcı deneyiminin önemli bir parçasıdır.
 
-Market sistemi, oyuncuların oyun içi para kaynaklarını kullanarak ekipman satın almasına yönelik mekanikleri kapsar.
+## 🧩 EMN+ PROGRAMLAMA DİLİ
 
-Market sistemi, ekonomi mekanikleriyle bağlantılı şekilde tasarlanmıştır. Satın alma işlemleri, oyun içindeki ekipman tercihlerini ve kaynak yönetimini destekler.
+EMNSTRIKE, **E.M.N Studio tarafından geliştirilen EMN+ programlama dili** kullanılarak hazırlanmıştır.
 
-### 💰 Para Sistemi — Economy System
+EMN+, E.M.N Studio'nun kendi yazılım geliştirme çalışmaları kapsamında oluşturduğu programlama dilidir. EMNSTRIKE, bu dilin kullanıldığı oyun projelerinden biridir.
 
-Ekonomi sistemi, oyuncunun oyun içindeki parasal kaynaklarının yönetilmesini kapsar.
+Projenin yazılım geliştirme yaklaşımı, kullanılan programlama dili ve oyun sistemlerinin bir araya getirilmesine dayanır.
 
-- Oyuncu parasının takip edilmesi.
-- Satın alma işlemlerinde para kullanılması.
-- Market sistemiyle ekonomik etkileşim.
-- Oyuncunun mevcut kaynaklarına göre ekipman tercih etmesi.
+- **Programlama dili:** EMN+
+- **Dil geliştiricisi:** E.M.N Studio
+- **Kullanıldığı proje:** EMNSTRIKE
+- **Proje kategorisi:** FPS / Aksiyon
+- **Proje yılı:** 2026
 
-### 🗺️ Harita Sistemi — Map System
+EMNSTRIKE'ın teknik kimliğinin önemli bir parçası, üçüncü taraf bir programlama dilinin adıyla değil, doğrudan **EMN+** ile ilişkilendirilmesidir.
 
-Haritalar, oyun içindeki mücadelelerin gerçekleştiği alanları oluşturur.
+## 🎵 MÜZİK VE SES TASARIMI
 
-Harita yapısı; oyun ortamını, oyuncuların hareket edebildiği alanları ve taktiksel kararların verildiği konumları kapsar.
+EMNSTRIKE'ın ses dünyası, oyunun atmosferini ve oyuncunun oyun içindeki deneyimini destekleyen bileşenlerden oluşur.
 
-### 🖥️ Menü ve Arayüz Sistemi
+### 🎼 Oyun müzikleri
 
-Kullanıcı arayüzü, oyuncuların oyun sistemleriyle etkileşim kurmasını sağlar.
+EMNSTRIKE için hazırlanan müzikler, oyunun atmosferini desteklemek ve oyun deneyimine özgün bir ses kimliği kazandırmak amacıyla oluşturulmuştur.
 
-Bu kapsamda menüler, oyun seçenekleri ve oynanış sırasında kullanılan arayüz bileşenleri yer alır.
+**Proje kapsamında kullanılan müziklerin yapay zekâ araçlarıyla üretilen bölümleri bulunmaktadır.** Yapay zekâ, müzik oluşturma sürecinde bir üretim aracı olarak kullanılmıştır.
 
----
+Müziklerin kullanımı, düzenlenmesi ve projeye dâhil edilmesi ilgili içeriklerin üretim sürecine ve geçerli kullanım koşullarına tabidir.
 
-## ⚙️ OYUNUN TASARIM FELSEFESİ
+### 🔊 Ses efektleri
 
-### 🎯 Taktiksel Oynanış
+Silah sesleri, arayüz sesleri, oyun içi bildirimler ve diğer ses efektleri, oyunun işitsel deneyiminin parçalarını oluşturur.
 
-EMNSTRIKE'ın temel yaklaşımı, çatışma sırasında alınan kararların ve oyuncu tercihlerinin oynanışın önemli bir parçası olmasıdır.
+### 🎧 Atmosfer ve işitsel deneyim
 
-### 🧠 Sistem Odaklı Geliştirme
+Müzik ve ses tasarımı; görsel atmosferi desteklemek, oyun içi olayları oyuncuya aktarmak ve oynanışın daha bütünlüklü hissedilmesini sağlamak amacıyla değerlendirilir.
 
-Oyun; çatışma, tur, market ve ekonomi gibi birbirleriyle ilişkili sistemlerden oluşur. Bu sistemlerin birlikte çalışması, oyunun genel akışını meydana getirir.
+## 🎨 HARİTALAR, GÖRSELLER VE TASARIM
 
-### 🧩 EMN+ ile Geliştirme
+EMNSTRIKE içerisinde kullanılan haritalar, oyun ortamları, arayüz tasarımları, görsel düzenlemeler ve projeye özel hazırlanan diğer içerikler oyunun görsel kimliğini oluşturur.
 
-EMNSTRIKE'ın en önemli teknik özelliklerinden biri, E.M.N Studio tarafından geliştirilen **EMN+ programlama diliyle** hazırlanmış olmasıdır.
+E.M.N Studio tarafından özgün olarak hazırlanan veya proje kapsamında oluşturulan bu bileşenler, oyunun genel tasarım yaklaşımının parçalarıdır.
 
-Projenin kimliği, yalnızca FPS türündeki oynanışına değil, kullanılan özel programlama diline de dayanır.
+**Haritalar, müzikler, sesler, görseller, arayüzler ve diğer proje içerikleri**, üretim biçimlerine ve ilgili hak sahiplerine bağlı olarak E.M.N Studio'nun proje kapsamında oluşturduğu ya da kullandığı materyaller arasında yer alabilir.
 
----
+Bu kapsamda, üçüncü taraflara ait içerikler varsa bunların hakları kendi sahiplerinde kalır.
 
-## 💻 EMN+ PROGRAMLAMA DİLİ
+## 🏢 E.M.N STUDIO
 
-**EMN+**, E.M.N Studio tarafından geliştirilen özel programlama dilidir.
+E.M.N Studio, EMNSTRIKE'ın geliştiricisi ve EMN+ programlama dilinin geliştiricisidir.
 
-EMNSTRIKE, bu dil kullanılarak geliştirilmiştir. EMN+ kullanımı, projeyi E.M.N Studio'nun yazılım ve dil geliştirme çalışmalarına bağlayan temel unsurlardan biridir.
+EMNSTRIKE; yazılım geliştirme, oyun sistemleri, programlama dili kullanımı ve dijital içerik üretimini bir araya getiren bir projedir.
 
-| Özellik | Bilgi |
-|---|---|
-| Programlama dili | EMN+ |
-| Dil geliştiricisi | E.M.N Studio |
-| Kullanıldığı proje | EMNSTRIKE |
-| Proje kategorisi | FPS / Aksiyon |
-| Geliştirme yılı | 2026 |
-| Kaynak kodu durumu | Kapalı kaynak |
+E.M.N Studio'nun hedefi, kendi geliştirme yaklaşımı doğrultusunda yazılım ve oyun projeleri ortaya koymaktır.
 
----
-
-## 👨‍💻 GELİŞTİRİCİ BİLGİLERİ
-
-<p align="center">
-  <strong>E.M.N STUDIO</strong>
-  <br>
-  Yazılım • Programlama Dilleri • Oyun Geliştirme
-</p>
-
-| Alan | Detay |
-|---|---|
-| Oyun adı | EMNSTRIKE |
-| Geliştirici | E.M.N Studio |
-| Kullanılan programlama dili | EMN+ |
-| Proje yılı | 2026 |
-| Oyun türü | Birinci şahıs nişancı (FPS) |
-| Alt tür | Taktiksel nişancı |
-| Proje durumu | Geliştirme sürümü tamamlandı |
-
----
-
-## 🔒 KAPALI KAYNAK POLİTİKASI
+## 🔒 KAYNAK KODU VE PROJE GİZLİLİĞİ
 
 **EMNSTRIKE açık kaynaklı değildir.**
 
-EMNSTRIKE'ın kaynak kodu, özel proje dosyaları ve yayımlanmamış geliştirme bileşenleri kamuya açık değildir.
+Oyunun kaynak kodları ve özel geliştirme dosyaları kamuya açık olarak sunulmamıştır. Bu README dosyasının yayımlanması, oyunun kaynak kodunun veya özel proje bileşenlerinin açık kaynak hâline getirildiği anlamına gelmez.
 
-Bu proje, açık kaynak lisansı altında yayımlanmamıştır. Projeye erişim, kullanım, dağıtım ve değişiklik yapma hakları ilgili hak sahiplerinin iznine ve geçerli lisans koşullarına tabidir.
+Proje sahibinin izni olmadan EMNSTRIKE'a ait özel kaynak kodlarının, proje dosyalarının veya başka korunan materyallerin kopyalanması ve yeniden dağıtılması yetkilendirilmiş değildir.
 
-- Kaynak kodu herkese açık olarak sunulmaz.
-- İzinsiz yeniden dağıtıma izin verilmez.
-- Projenin özel dosyaları izinsiz biçimde başka projelere aktarılamaz.
-- EMN+ ve EMNSTRIKE'a ilişkin haklar, ilgili hak sahiplerine aittir.
+EMN+ programlama dili ve EMNSTRIKE'ın özgün bileşenleriyle ilgili haklar, geçerli mevzuat ve ilgili lisans koşulları çerçevesinde değerlendirilir.
 
-## © TELİF VE HAKLAR
+## © TELİF VE FİKRÎ MÜLKİYET
 
-EMNSTRIKE ve E.M.N Studio tarafından oluşturulan özgün proje materyalleri, geçerli mevzuat ve ilgili haklar çerçevesinde korunur.
+EMNSTRIKE kapsamında E.M.N Studio tarafından özgün olarak oluşturulan yazılım bileşenleri, oyun sistemleri, haritalar, tasarımlar, görseller, müzikler ve ses içerikleri, ilgili hak sahipliği ve lisans koşulları çerçevesinde korunur.
 
-**© 2026 E.M.N Studio. Tüm hakları saklıdır.**
+Yapay zekâ araçlarıyla oluşturulan müzik ve diğer içeriklerin hak sahipliği ve kullanım koşulları, kullanılan aracın şartlarına ve geçerli mevzuata göre değişebilir. Bu nedenle bütün içeriklerin koşulsuz olarak tek bir tarafa ait olduğu varsayılmamalıdır.
+
+EMNSTRIKE'ın veya EMN+ programlama dilinin adının, logosunun ve diğer marka unsurlarının kullanımı, ilgili haklar ve izinler çerçevesinde değerlendirilir.
 
 ---
 
@@ -177,5 +131,7 @@ EMNSTRIKE ve E.M.N Studio tarafından oluşturulan özgün proje materyalleri, g
   <br>
   <code>POWERED BY EMN+</code>
   <br><br>
-  <em>Kendi teknolojimizle, kendi yolumuzda.</em>
+  <strong>DEVELOPED BY E.M.N STUDIO</strong>
+  <br>
+  © 2026 E.M.N Studio. Tüm hakları saklıdır.
 </p>
